@@ -407,16 +407,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Semaforo_baseColor.jpeg"
+      "uri": "textures/Semaforo_baseColor.jpeg?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
     },
     {
-      "uri": "textures/Semaforo_metallicRoughness.png"
+      "uri": "textures/Semaforo_metallicRoughness.png?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
     },
     {
-      "uri": "textures/Semaforo_emissive.jpeg"
+      "uri": "textures/Semaforo_emissive.jpeg?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
     },
     {
-      "uri": "textures/Semaforo_normal.png"
+      "uri": "textures/Semaforo_normal.png?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
     }
   ],
   "materials": [
