@@ -402,21 +402,21 @@
   "buffers": [
     {
       "byteLength": 107144,
-      "uri": "scene.bin"
+      "url": "https://github.com/alighaddar10/The_kool_kid/blob/main/subway_traffic_light__gameready/scene.bin"
     }
   ],
   "images": [
     {
-      "uri": "textures/Semaforo_baseColor.jpeg?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
+      "url": "https://github.com/alighaddar10/The_kool_kid/raw/main/subway_traffic_light__gameready/textures/Semaforo_baseColor.jpeg"
     },
     {
-      "uri": "textures/Semaforo_metallicRoughness.png?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
+      "url": "https://github.com/alighaddar10/The_kool_kid/raw/main/subway_traffic_light__gameready/textures/Semaforo_metallicRoughness.png"
     },
     {
-      "uri": "textures/Semaforo_emissive.jpeg?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
+      "url": "https://github.com/alighaddar10/The_kool_kid/raw/main/subway_traffic_light__gameready/textures/Semaforo_emissive.jpeg"
     },
     {
-      "uri": "textures/Semaforo_normal.png?token=GHSAT0AAAAAABY5YLETIQNPEVZX452LCBEGYZVKTGQ"
+      "url": "https://github.com/alighaddar10/The_kool_kid/raw/main/subway_traffic_light__gameready/textures/Semaforo_normal.png"
     }
   ],
   "materials": [
